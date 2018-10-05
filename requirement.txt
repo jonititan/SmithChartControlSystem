@@ -1,0 +1,6 @@
+jupyter
+numpy
+scipy
+sympy
+matplotlib
+git+git://github.com/vMeijin/pySmithPlot.git@master
